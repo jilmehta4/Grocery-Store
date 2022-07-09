@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-land/row_layout.xml" value="0.22" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/activity_view.xml" value="0.203125" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/checkout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/checkout_form.xml" value="0.2" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/checkoutform.xml" value="0.203125" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/displayitems.xml" value="0.203125" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/fun.xml" value="0.25" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/grocery_items_list.xml" value="0.203125" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/product_details.xml" value="0.33" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/row_layout.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
