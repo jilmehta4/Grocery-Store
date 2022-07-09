@@ -6,8 +6,8 @@
     android:layout_height="match_parent">
 
     <LinearLayout
-        android:layout_width="341dp"
-        android:layout_height="700dp"
+        android:layout_width="877dp"
+        android:layout_height="1387dp"
         android:layout_marginStart="34dp"
         android:layout_marginTop="12dp"
         android:layout_marginEnd="36dp"
@@ -20,8 +20,8 @@
 
         <ImageView
             android:id="@+id/imgFull"
-            android:layout_width="match_parent"
-            android:layout_height="305dp"
+            android:layout_width="904dp"
+            android:layout_height="593dp"
             tools:srcCompat="@tools:sample/avatars" />
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -65,8 +65,8 @@
 
         <TextView
             android:id="@+id/txtDetails"
-            android:layout_width="match_parent"
-            android:layout_height="184dp"
+            android:layout_width="926dp"
+            android:layout_height="524dp"
             android:text="TextView"
             android:textSize="20sp" />
 
@@ -86,10 +86,10 @@
                 android:text="Buy Now"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.303"
+                app:layout_constraintHorizontal_bias="0.538"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.451" />
+                app:layout_constraintVertical_bias="0.52" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
     </LinearLayout>

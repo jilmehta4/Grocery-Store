@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-land/checkout_form.xml" value="0.22" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-land/product.xml" value="0.19427083333333334" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-land/product_details.xml" value="0.19427083333333334" />
         <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-land/row_layout.xml" value="0.22" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.153125" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-sw600dp/checkout_form.xml" value="0.22" />
+        <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout-sw600dp/product.xml" value="0.153125" />
         <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/activity_view.xml" value="0.203125" />
         <entry key="..\:/Level 3/ADVANCED MOBILE APPLICATION DEVELOPMENT/Assignments/Project1/app/src/main/res/layout/checkout.xml" value="0.20416666666666666" />

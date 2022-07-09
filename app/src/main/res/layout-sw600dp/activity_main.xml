@@ -9,13 +9,13 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="311dp"
-        android:layout_height="113dp"
+        android:layout_width="616dp"
+        android:layout_height="235dp"
         android:layout_marginTop="97dp"
         android:layout_marginBottom="15dp"
         android:text="Big Basket"
         android:textColor="#01A608"
-        android:textSize="48sp"
+        android:textSize="96sp"
         app:layout_constraintBottom_toTopOf="@+id/imageView5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.554"
@@ -24,8 +24,8 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="269dp"
-        android:layout_height="181dp"
+        android:layout_width="813dp"
+        android:layout_height="584dp"
         android:layout_marginBottom="124dp"
         android:scaleType="centerInside"
         app:layout_constraintBottom_toTopOf="@+id/mainbtn"
@@ -36,8 +36,8 @@
 
     <Button
         android:id="@+id/mainbtn"
-        android:layout_width="186dp"
-        android:layout_height="63dp"
+        android:layout_width="410dp"
+        android:layout_height="136dp"
         android:layout_marginBottom="87dp"
         android:background="@drawable/rounded_corners_red"
         android:text="Shop"
